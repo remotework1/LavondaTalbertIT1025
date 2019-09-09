@@ -2,7 +2,7 @@
 
 #### In this class students will learn the components of the hard drive and its performance. Techincal terms and its place in history and today's advancement on its advancement in future technology. 
 
-#### a. Hardware
+### a. Hardware
 ##### Hard Drives and Memory
 
 ##### ALU and the Control Unit
@@ -25,8 +25,14 @@
 
 ##### Numeric Conversions
 
+#### Binary (base-two)is written as 0 (off) and 1 (on). It is the language that computer uses. Decimal is base-ten. It is the counting system we use everyday. Hexadecimal (base-sixteen) which is represented in deciding color palette used in web design. Those in the graphic design industry uses this in their design work.
+
 ##### Hexadecimal Color Representation
+
+#### The #ff016b is the RGB representation of color used on the web. When working in print, CMYk value is used because there has to be a true version of the color black.
+
+#### This color could be problematic in the sense for those who have eye impairments. The color used should have contrast between the type and the background.
 
 ### Conclusion
 
-####
+#### This segment has allowed students to understand the difference between the numbering system used throughout the world ahd how its applied. A better understanding of the components used in the computer hard drives and how it relates to data. What the users need to know to access information more rapidly and at a better cost value.
