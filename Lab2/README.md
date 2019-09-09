@@ -15,7 +15,11 @@
 
 ##### Logic Gates and Circuits
 
+#### A truth table lists organize information in every possible scenario. It helps in the validity of arguments. Where a NAND gate all outputs are false if all inputs are true.
+
 ##### IEEE
+
+#### It is an technical association that works with advancing innovation and technology for people's benefit. Its ethical belief comes from making sure developers of AI know human needs aren't the mainstay of its practices. That holding values and principles are how they affect the community at large. 
 
 ### Data Representation
 
