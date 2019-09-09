@@ -2,7 +2,7 @@
 
 #### In this class students will learn the components of the hard drive and its performance. Techincal terms and its place in history and today's advancement on its advancement in future technology. 
 
-### a. Hardware
+### Hardware
 ##### Hard Drives and Memory
 
 ##### ALU and the Control Unit
