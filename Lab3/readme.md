@@ -35,3 +35,15 @@
 ##### Cisco has a website that is helpful when it comes to letting a person know how to stay on track with their studies and certifications. 
 
 ##### CISSP is another cybersecurity website. I do like that they list the different areas of occupations one can choose from and the level of expertise that is required.
+
+### Certificates
+
+##### I am currently studying Programming and Development (post-degree). After I find an entry level job I will go back and get the associate degree. A few of these classes I may be able to test out of. My focus is looking for a new job.
+
+### Co-ops / Internships
+
+##### There appears to be four steps involved in obtaining a Co-op. First, participate in the co-op orientation process in the Career Center. Second, update resume and get it approved by a Career Coach. Third, work with an Employer Relations Specialist to apply and interview with approved Co-op placements. Fourth, complete and sign a Cooperative Education Agreement and register for college credit.
+
+### Industry Associations / Student Organizations
+
+##### ACM-W is an organization that support, advocate and celebrate women in computing. It is a great networking source for women to not only find employment but alert others where employment is available for others. In such a male-dominating field, support from women and organizations who support women are a valuable resource in today's marketplace. Keeping abreast of conferences, education and work related matters will help those who are still trying to find their way in the field of study.
