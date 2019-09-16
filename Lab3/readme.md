@@ -16,3 +16,9 @@
 
 ##### ii. Hypervisor software was developed decades ago to allow multiple users access at the same time to computers that performed batch processing. For example, payroll.
 
+### Python
+
+##### It is a term that is used in programming and algoythms based on fields. So it has the normal conventions of programming languagebut it is intended to be read by humans not machines.
+
+##### Interpreted language is source code that is not translated by the target machine. A different program interpreter reads and execute the code. It is translated line by line and the command is executed. Python uses this language. Compiled language is target machine directly translates the code but the code must be rebuilt everytime there is a revision.
+
