@@ -47,3 +47,7 @@
 ### Industry Associations / Student Organizations
 
 ##### ACM-W is an organization that support, advocate and celebrate women in computing. It is a great networking source for women to not only find employment but alert others where employment is available for others. In such a male-dominating field, support from women and organizations who support women are a valuable resource in today's marketplace. Keeping abreast of conferences, education and work related matters will help those who are still trying to find their way in the field of study.
+
+### Conclusion
+
+##### This chapter is vital to insuring ones progress in the IT field. The teaching in this chapter allows students to make some critical decisions about their future in IT. The list of different studies along with the careers that are available. This is one of the most important chapters in this class because it allows one to decide if this is their chosen career path.
