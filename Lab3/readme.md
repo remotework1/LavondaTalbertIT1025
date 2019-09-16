@@ -15,3 +15,4 @@
 ##### i. Virtualization solved 2 problems. One it allow companies to partition their servers and run legacy apps on multiple operating systems using different types and versions. Servers started to reduce its costs in purchase,setup and maintenance. Second it helped reduce vendor lock in and became the foundation for cloud computing.
 
 ##### ii. Hypervisor software was developed decades ago to allow multiple users access at the same time to computers that performed batch processing. For example, payroll.
+
