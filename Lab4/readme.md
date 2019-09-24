@@ -17,4 +17,10 @@
 ### Graphics
 
 #### Raster vs. Vector Graphics
-##### A raster image is made up of thousands even millions of tiny little pixels. When you enlarge the image it appears blurred and low quality. Photos are in raster and scanned at 300dpi to maintain high quality. A vector image has no pixels and can be enlarged without losing quality. Type and objects are saved as a vector file.
+##### A raster image is made up of thousands even millions of tiny little pixels. When you enlarge the image it appears blurred and low quality. Photos are in raster and scanned at 300dpi to maintain high quality. A vector image has no pixels and can be enlarged without losing quality. Fonts and objects(squares, circles) are saved as a vector file.
+
+#### Lossless vs. Lossy Compression
+
+##### Lossless compression reduces a file's size with no loss of quality after its been uncompressed and the file size remains the same as the original.  Lossy compression reduces the file size by removing some of the details and colors, creating a reduced file size. A designer has to determine the file size needed for his/her web design.
+
+#### File Formats
