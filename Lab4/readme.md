@@ -24,3 +24,5 @@
 ##### Lossless compression reduces a file's size with no loss of quality after its been uncompressed and the file size remains the same as the original.  Lossy compression reduces the file size by removing some of the details and colors, creating a reduced file size. A designer has to determine the file size needed for his/her web design.
 
 #### File Formats
+
+##### JPEG, GIF and PNG are all image formats that's where they are similiar. Differences start with only GIF and PNG are good with line art. GIF format is used in animation. JPEG and PNG are great with photos but PNG high contrast and JPEG low contrast. 
