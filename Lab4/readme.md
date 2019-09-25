@@ -26,3 +26,9 @@
 #### File Formats
 
 ##### JPEG, GIF and PNG are all image formats that's where they are similiar. Differences start with only GIF and PNG are good with line art. GIF format is used in animation. JPEG and PNG are great with photos but PNG high contrast and JPEG low contrast. 
+
+#### File Properties
+
+##### i. This design is related to the Affiliate Marketing business I am training for. I want to create a relatable image for consumers who trust what they see. It took seven layers to create this logo.
+
+##### ii. The file size is 355,420 bytes and the default application is Adobe Illustrator CS6. A few browsers will also open the file such as Firefox, Chrome, and Safari.
