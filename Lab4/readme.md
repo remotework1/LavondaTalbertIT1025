@@ -1,6 +1,6 @@
 ### Executive Summary
 
-#####
+##### This chapter will provide an overview of examining the operating systems and how the command line works. Exploring software through the use of interactive programming, graphics and diagram enviroment. Graphics rendering, compression and design are tools for student interested in web design.
 
 
 ### Python IDLE
@@ -32,3 +32,7 @@
 ##### i. This design is related to the Affiliate Marketing business I am training for. I want to create a relatable image for consumers who trust what they see. It took seven layers to create this logo.
 
 ##### ii. The file size is 355,420 bytes and the default application is Adobe Illustrator CS6. A few browsers will also open the file such as Firefox, Chrome, and Safari.
+
+### Conclusion
+
+##### In this module the student learned the inner workings of the operating system, Python IDLE and new programming language. Along with learning the graphics and its components, students learned how to apply it other areas of the IT industry. At the end of the chapter, programming and graphic files that will highlight their work for potential employers.
