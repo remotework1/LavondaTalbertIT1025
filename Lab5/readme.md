@@ -1,6 +1,6 @@
 ### Executive Summary
 
-##### In this module the students will learn the NSA in networking security and its components: networking and topologies. 
+##### In this module the students will learn the NSA in networking security and its components: networking and topologies. Learn and define the techniques of Cryptography, Cybersecurity and Encryption. Lucidchart flowchart exercises along with summaries about the concept of different topologies will be part of the teachings. 
 
 ### Lucidchart
 
@@ -69,3 +69,5 @@
 ##### A brute-force tries every decryption key for a cipher. Because it so effective, Caesar cipher shouldn't be used to encrypt secret information. Kerckhoffs' principle also believes that you shouldn't publish everything about your system, except the key. The principle also believes that your system is secure even if it's published.
 
 ### Conclusion
+
+##### This chapter included all the summaries and exercises of both chapter five and six. Learning hoe to format diagrams to represent the topolgies learn in this lession. A list of terminology along with explanations helps bring both chapters together.
