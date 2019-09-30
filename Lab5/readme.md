@@ -32,10 +32,13 @@
 
 ##### b. Infrastructure Topology uses a combination of wireless and wired devices. Wireless mesh interconnected with each other wirelessly. Wireless mesh is more beneficial and economical by wirelessly connecting enire cities using existing technology.
 
+#### Network Design
 
+##### I created a network diagram featuring A Wireless Topology. I just wanted to show what I am using today in my home. I don't have a switch, just a cable line. It is possible that the cable line acts like a switch. Considering it is running into my house specically and tied to only my address.
 
+#### NSA/CSS
 
-
+##### The NSA role in U.S. cybersecurity includes Advisories and Technical Guidance, Threats Intelligence & Assessments, Products & Services, Education, Careers, Public Engagements and Partnerships with allies and Industries.
 
 ### Cybersecurity and Encryption
 
