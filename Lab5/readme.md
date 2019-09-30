@@ -32,4 +32,16 @@
 
 #### Cryptography
 
+###### a. Complete.
+
+###### b. Message: what time is it. I tried to encrypt the message and turned the dial and it made no sense to me.
+
+###### c. I notice that there wasn't so much a change in languages as it was how many times a letter was being duplicated. In both English and Spanish, I used the letter 'M' several times and got the same results.
+
+###### d. It is any cipher that uses multiple substitution alphabets. It creates a lighter fingerprint than the Caesar cipher by flattening this distribution of letter frequencies. The secret message appeared eight blue bars. When I decrypt the word 'what' there was shift that occurred nine times. When I encrypt the word 'what', the shift was six times.
+
+#### Brute-Force
+
+###### A brute-force tries every decryption key for a cipher. Because it so effective, Caesar cipher shouldn't be used to encrypt secret information. Kerckhoffs' principle also believes that you shouldn't publish everything about your system, except the key. The principle also believes that your system is secure even if it's published.
+
 ### Conclusion
