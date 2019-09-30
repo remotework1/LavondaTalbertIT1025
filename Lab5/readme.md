@@ -12,7 +12,28 @@
 
 ##### Packet (2) is a unit of data. It is the data that is used to transmit over the Internet. A device sends a message to another device breaks down the data into smaller pieces.
 
-##### Packet-Sitching
+##### Packet-Switching (4) is when technology allows a packet from one device to pass from one router to another across the internet until it reaches its destination. It can leave the same packet and travel differently and the receiving device will put in proper order.
+
+##### IP Address (3) is an unique identifying number. Now that the internet has grown the IPv4 addresses will be exhausted. The IPv6 standard hs formatted at eight groups with an extended database to accomodate the internet growth.
+
+##### DNS (5) is the Internet directory. It returns the IP address of the device requested to route properly.
+
+##### Protocol (1) is two or more devices to exchange information over the network back and forth.
+
+#### Network Hardware
+
+##### a. A switch is intelligent and can actually learned the addresses of devices connected to it and send information to specific ports since the bandwidth doesn't have to be shared. The hub isn't smart and connects all of your network devices and the bandwidth has to be shared that slows down the network.
+
+##### b. The router connect networks while hubs and switches create networks.
+
+#### Network Topologies
+
+##### a. Single point of failure is when a a part of the system fails it will stop the entire system from working.
+
+##### b. Infrastructure Topology uses a combination of wireless and wired devices. Wireless mesh interconnected with each other wirelessly. Wireless mesh is more beneficial and economical by wirelessly connecting enire cities using existing technology.
+
+
+
 
 
 
