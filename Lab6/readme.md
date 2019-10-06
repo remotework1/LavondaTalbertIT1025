@@ -12,5 +12,5 @@
 
 ##### TCP/IP responsibility is the define the details of how data is sent and recieved through network adapters, switches, routers, hubs and other network communication hardware.
 
-##### 
+##### The client-server model in relation to TCP/IP works in a two part definition. The client is the computer or device that actually dials the phone while the server is the computer that listens then accepts or rejects the call that comes in.
 
