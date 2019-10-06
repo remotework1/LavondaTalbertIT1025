@@ -14,3 +14,7 @@
 
 ##### The client-server model in relation to TCP/IP works in a two part definition. The client is the computer or device that actually dials the phone while the server is the computer that listens then accepts or rejects the call that comes in.
 
+##### i. Post office with protocol stacks: The layers are important to changing technology because it can change without afecting the other layers just by splitting the tasks. 
+
+##### ii. The application layers includes HTTP, FTP, POP3, SMTP, SNMP.
+
