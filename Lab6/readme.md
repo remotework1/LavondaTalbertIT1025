@@ -38,4 +38,7 @@
 
 ##### Web Design and Applications invlove the abilities to convey vital information on pages that are accessible to all visitors. With the vast information of products, services and information, all 'WebApps' should not only be design for computers (large screen) but mobile devices (small screen) as well. The design layout and links should be transparent on both.
 
+#### HTML5 and CSS
+
+##### HTML5 create the basic element of webpages so other more advanced web coding can manipulate those basic elements. CSS purpose dexcribes how HTML elements are displayed on paper, screen or other media.  When building the web page, it made more sense to use HTML first because is is a basic code and interject CSS. This process was an easy way to remember the order of the coding. It helped to code in Tryit Editor because of the run button effect immediately.
 
