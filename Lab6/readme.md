@@ -42,3 +42,6 @@
 
 ##### HTML5 create the basic element of webpages so other more advanced web coding can manipulate those basic elements. CSS purpose dexcribes how HTML elements are displayed on paper, screen or other media.  When building the web page, it made more sense to use HTML first because is is a basic code and interject CSS. This process was an easy way to remember the order of the coding. It helped to code in Tryit Editor because of the run button effect immediately.
 
+#### HTML and XML
+
+##### XML (eXtensible Markup Language) is a markup language, self-descriptive and store and transport data. It doesn't do anything but carry data (what it is). HTML designed to display data (looks). 
