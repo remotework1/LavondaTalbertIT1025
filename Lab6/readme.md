@@ -1,5 +1,7 @@
 ### Executive Summary
 
+##### This module explores the various protocols that support internet communication. Learning and describing all of the methodologies and creating exercises to support each theory. Designing and programming web pages from past to present along with a few common elements.
+
 #### Internet Architecture
 
 ##### Internet Protocol
@@ -54,6 +56,10 @@
 ##### default page - it is the page that displays when you don't specify a path and enter only a doman name. (www.amazon.com)
 ##### parameters - string of characters after the path begins with a question mark (?category=/electronics&r) 
 ##### anchor - begins with a hashtag and tells the browser to scoll to or load a specific part of the page (#Music)
+
+### Conclusion
+
+##### Designing and programming web pages with elements that is applicable to all users of the internet. Learning and defining internet terminology along with the protocols to ensure the methods and practices are easy to apply and understand. Knowing the difference between IP addresses, security and the function of the world wide web. Submitting exercises to be used for both the classroom and future references.
 
 
 
