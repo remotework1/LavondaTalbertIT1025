@@ -24,3 +24,8 @@
 
 ##### HTTP is secured by the protocol named HTTPS (Secure Hypertext Transfer Protocol) encrypted text.  It is HTTP with a security feature that encrypts the data that is being retrieved by HTTP. The data uses encryption algorithms to scramble while being transferred.
 
+#### Securing Your Web Browser
+
+##### Browser security is vital to controlling spyware being installed without one's knowledge to stopping intruders from taking control of your computer. Browsers are not setup in a secure default configuration.
+
+##### A risk that is a result of a brower not being secure is cookies. They are place by specific websites we visit. The website collects unique identity of a visitor that can be an invasion of privacy. When authentication is asked, an attacher could acquire unauthorized access that site. Persistent cookies (stay on computer til it expires) are more dangerous than session cookies (clears when browser closes). 
