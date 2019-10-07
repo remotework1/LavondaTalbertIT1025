@@ -29,3 +29,13 @@
 ##### Browser security is vital to controlling spyware being installed without one's knowledge to stopping intruders from taking control of your computer. Browsers are not setup in a secure default configuration.
 
 ##### A risk that is a result of a brower not being secure is cookies. They are place by specific websites we visit. The website collects unique identity of a visitor that can be an invasion of privacy. When authentication is asked, an attacher could acquire unauthorized access that site. Persistent cookies (stay on computer til it expires) are more dangerous than session cookies (clears when browser closes). 
+
+### Internet Programming
+
+#### World Wide Web Consortium
+
+##### Tim Berners-Lee is the inventor of the World Wide Web. The W3C organization was create to try to improve the quality and standard of the world wide web.
+
+##### Web Design and Applications invlove the abilities to convey vital information on pages that are accessible to all visitors. With the vast information of products, services and information, all 'WebApps' should not only be design for computers (large screen) but mobile devices (small screen) as well. The design layout and links should be transparent on both.
+
+
