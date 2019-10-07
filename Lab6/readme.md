@@ -45,3 +45,15 @@
 #### HTML and XML
 
 ##### XML (eXtensible Markup Language) is a markup language, self-descriptive and store and transport data. It doesn't do anything but carry data (what it is). HTML designed to display data (looks). 
+
+### Components of a URL
+
+##### scheme - tells your browser type of address so it connects correctly (http://)
+##### domain - each segment of the domain name separated by a period (www.amazon.com)
+##### top level domain - the domain located on the right (com)
+##### default page - it is the page that displays when you don't specify a path and enter only a doman name. (www.amazon.com)
+##### parameters - string of characters after the path begins with a question mark (?category=/electronics&r) 
+##### anchor - begins with a hashtag and tells the browser to scoll to or load a specific part of the page (#Music)
+
+
+
