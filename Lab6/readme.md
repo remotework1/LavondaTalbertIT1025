@@ -2,7 +2,7 @@
 
 ##### This module explores the various protocols that support internet communication. Learning and describing all of the methodologies and creating exercises to support each theory. Designing and programming web pages from past to present along with a few common elements.
 
-#### Internet Architecture
+### Internet Architecture
 
 ##### Internet Protocol
 
