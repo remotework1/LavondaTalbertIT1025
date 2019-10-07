@@ -18,3 +18,9 @@
 
 ##### ii. The application layers includes HTTP, FTP, POP3, SMTP, SNMP.
 
+#### Internet Security
+
+##### HTTP (Hypertext Transfer Protocol) as of today, is the most widely used protocol in the world. It is used for viewing web pages (clear text). It supports the client-server model by providing a connection which results in a request and response.
+
+##### HTTP is secured by the protocol named HTTPS (Secure Hypertext Transfer Protocol) encrypted text.  It is HTTP with a security feature that encrypts the data that is being retrieved by HTTP. The data uses encryption algorithms to scramble while being transferred.
+
