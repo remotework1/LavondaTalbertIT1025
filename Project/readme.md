@@ -10,7 +10,7 @@
 
 ##### CompTIA is in relation to cybersecurity analysis which I have no interest in. It appears to work in relation to behavioral analytics to network and devices to prevent threats. It is interesting but no interest.
 
-#### Cisco certification provides a variety of career certifications that appealed to me. The Cisco DevNet training and certification program is one that interests me. IoT (Internet of Things) have some relations but it appears IoT is far more data intensive which is something I do as a market researcher. This is a certification I will study more and make an attempt to acquire.
+##### Cisco certification provides a variety of career certifications that appealed to me. The Cisco DevNet training and certification program is one that interests me. IoT (Internet of Things) have some relations but it appears IoT is far more data intensive which is something I do as a market researcher. This is a certification I will study more and make an attempt to acquire.
 
 
 
