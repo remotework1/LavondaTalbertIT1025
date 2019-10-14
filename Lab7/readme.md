@@ -16,6 +16,7 @@
 
 ### Unified Modeling Language (UML)
 
-##### i. OMG (Object Management Group) is an international, open membership, not-for-prifit technology standards consortium. It oversees the definition and maintenance of UML specifications. The purpose of UML is to provide tools for analysis, design, and implementtion of software-based systems as well as for modeling business and simiar processes.
+##### i. OMG (Object Management Group) is an international, open membership, not-for-profit technology standards consortium. It oversees the definition and maintenance of UML specifications. The purpose of UML is to provide tools for analysis, design, and implementtion of software-based systems as well as for modeling business and simiar processes.
 
+##### ii. object = 
 
