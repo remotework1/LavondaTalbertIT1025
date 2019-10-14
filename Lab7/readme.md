@@ -14,4 +14,8 @@
 
 ##### iii. A class is like a blueprint or prototype that can be defined are used to create objects. An object is an instance of a class. To instantiate an object means to give it a name and locating it into some physical space. I am still a bit unclear on the definition of instantiated.
 
+### Unified Modeling Language (UML)
+
+##### i. OMG (Object Management Group) is an international, open membership, not-for-prifit technology standards consortium. It oversees the definition and maintenance of UML specifications. The purpose of UML is to provide tools for analysis, design, and implementtion of software-based systems as well as for modeling business and simiar processes.
+
 
