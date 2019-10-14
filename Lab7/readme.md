@@ -2,7 +2,7 @@
 
 ##### This module helps the student to become familiar with the advanteges of using file/folder compression. Defining the Object Oriented Programming (OOP) paradigm and practice creating and diagramming Lucidchart software.
 
-#### File Compression
+### File Compression
 
 ##### a. The purpose of file compression are zipped files that take up less storage space and can transfer quickly to other computers. A zip file is a way of grouping or archving one or more files so they act as one smaller file.
 
