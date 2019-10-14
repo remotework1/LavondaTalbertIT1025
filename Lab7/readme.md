@@ -16,7 +16,12 @@
 
 ### Unified Modeling Language (UML)
 
-##### i. OMG (Object Management Group) is an international, open membership, not-for-profit technology standards consortium. It oversees the definition and maintenance of UML specifications. The purpose of UML is to provide tools for analysis, design, and implementtion of software-based systems as well as for modeling business and simiar processes.
+##### i. OMG (Object Management Group) is an international, open membership, not-for-profit technology standards consortium. It oversees the definition and maintenance of UML specifications. The purpose of UML is to provide tools for analysis, design, and implementtion of software-based systems as well as for modeling business and similar processes.
 
-##### ii. object = 
+##### ii. object = shark; class = definition of a shark; abstraction = Sammy  ; encapsulation = a specific type of shark ; inheritance = swim(self). I matched these terms not really being sure if I understand the shark program. I tried to write the program several times and not successfully. 
+
+#### 2. I have no concept on how to create a class diagram of the shark class. I would need to see an example of a class diagram to understand how to format it.
+
+
+
 
