@@ -1,5 +1,7 @@
 ### Executive Summary
 
+##### This module helps the student to become familiar with the advanteges of using file/folder compression. Defining the Object Oriented Programming (OOP) paradigm and practice creating and diagramming Lucidchart software.
+
 #### File Compression
 
 ##### a. The purpose of file compression are zipped files that take up less storage space and can transfer quickly to other computers. A zip file is a way of grouping or archving one or more files so they act as one smaller file.
@@ -21,6 +23,10 @@
 ##### ii. object = shark; class = definition of a shark; abstraction = Sammy  ; encapsulation = a specific type of shark ; inheritance = swim(self). I matched these terms not really being sure if I understand the shark program. I tried to write the program several times and not successfully. 
 
 #### 2. I have no concept on how to create a class diagram of the shark class. I would need to see an example of a class diagram to understand how to format it.
+
+### Conclusion
+
+##### Creating both a paradigm and creating diagramming software using the Object Oriented Programming concepts to help better understand the meaning of a class Shark diagram. Creating graphics into compressed files or file folder to ease the burden of transferring large files between computers. 
 
 
 
