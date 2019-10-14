@@ -8,5 +8,5 @@
 
 ### Object Oriented Programming (OOP)
 
-##### i. The shark class methods are functions that are indented under the words class shark. These two functions are one for swimming and one for being awesome.
+##### i. The shark class methods are functions that are indented under the words class shark. These two functions are one for swimming and one for being awesome. The argument to these 2 functions is the word self that reference the objects in this class.
 
