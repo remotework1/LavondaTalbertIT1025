@@ -14,7 +14,7 @@
 
 ##### CISSP certification is for a system security profession. I am not interested in cybersecurity.
 
-#### Certificates
+### Project - Option 2:
 
 ##### 
 
