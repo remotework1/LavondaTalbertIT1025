@@ -22,7 +22,10 @@
 
 #### Research
 
-##### There are four areas of Programming and Development and the decision to pick the one that has the highest percentage of remote jobs is important. I also learned in this research that a Developer is a different role than Programmer. Developer is good at one language and a Programmer is good at several different languages. Knowing that will be the difference in the amount of remote jobs available or having to work in-house. 
+##### 1. There are four areas of Programming and Development and the decision to pick the one that has the highest percentage of remote jobs is important. I also learned in this research that a Developer is a different role than Programmer. Developer is good at one language and a Programmer is good at several different languages. Knowing that will be the difference in the amount of remote jobs available or having to work in-house. 
+
+##### 2. Sources - https://www.mytechlogy.com/IT-blogs/7594/the-4-different-areas-of-programming/#.XauzSi3Mx26
+https://skillcrush.com/2016/06/27/remote-coding-careers/
 
 
 
