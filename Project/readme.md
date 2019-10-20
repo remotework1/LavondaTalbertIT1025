@@ -14,9 +14,10 @@
 
 ##### CISSP certification is for a system security profession. I am not interested in cybersecurity.
 
-### Project - Option 2:
+### Executive Summary
 
-##### 
+##### I chose Option 2. IT Programming and Development is my topic of interest but learning about CISCO in Unit 3 peaked my interest as well. The IT Programming and Development is one of the areas of computing Amazon has agreed to pay for. This area of computing has remote jobs and an outlet of agencies to help in recruiting (Flexjobs.com, Bucketlist.org, Indeed.com). 
+
 
 
 
