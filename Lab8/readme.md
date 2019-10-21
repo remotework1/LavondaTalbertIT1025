@@ -39,9 +39,11 @@
 
 #### Intellectual Property
 
-##### WIPO is the global forum that leads the development of a balance and effective international IP system that enables nnovation and creativity for the benefit of all.
+##### i. WIPO is the global forum that leads the development of a balance and effective international IP system that enables nnovation and creativity for the benefit of all.
 
-##### A copyright is obtained by creating the original work. The benefit of registering for a copyright you can sue if used improperly, work is owned by the owner and its easy to transfer the work to others.
+##### ii. A copyright is obtained by creating the original work. The benefit of registering for a copyright you can sue if used improperly, work is owned by the owner and its easy to transfer the work to others. The SVG image should be copyrighted so it cannot be used by others in design or manipulated in a way that is beneficial to someone else. Also in order to register for use on the internet, and print it needs to have its own identity.
+
+##### iii. 
 
 
 
