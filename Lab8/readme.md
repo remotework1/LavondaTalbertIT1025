@@ -33,6 +33,8 @@
 
 ##### ii. Code of ethics outlines a set of acceptable behaviors for a profession or social group. ACU policy outlines what is allowed or not allowed while someone is using the organization's services.
 
+##### iii. Dunkin Donuts has this as a header at the top of their website and it must be review and agreed upon. It doesn't stop you from viewing the website but it is a constant reminder that it exists. I click out of it and nothing happened but I didn't sign into the website as a member.  https://www.dunkindonuts.com/en/privacy-policy
+
 
 
 
