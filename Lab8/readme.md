@@ -41,6 +41,8 @@
 
 ##### WIPO is the global forum that leads the development of a balance and effective international IP system that enables nnovation and creativity for the benefit of all.
 
+##### A copyright is obtained by creating the original work. The benefit of registering for a copyright you can sue if used improperly, work is owned by the owner and its easy to transfer the work to others.
+
 
 
 
