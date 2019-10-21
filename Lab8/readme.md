@@ -31,6 +31,10 @@
 
 ##### i. Code of ethics outliens a set of acceptable behaviors for a profession or social group.  ACM created their code of ethics to make sure hummanity is not demean, bully or humiliated by a professional in that organzation. Noone will use someone else's computer to commit acts against another human. 
 
+##### ii. Code of ethics outliens a set of acceptable behaviors for a profession or social group. ACU policy outlines what is allowed or not allowed while someone is using the organization's services.
+
+
+
 
 
 
