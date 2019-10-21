@@ -1,6 +1,6 @@
 ### Executive Summary
 
-##### Describe a variety of database models and create a SQL database. Learn the key ethical and legal implications of information systems.
+##### Learn and decipher the areas of Big Data and what technology supports it. Describe a variety of database models and create a SQL database. Learn the key ethical and legal implications of information systems. Study the three areas on how information is collected and distributed.
 
 ### Data, Information and Knowledge
 
@@ -24,7 +24,7 @@
 
 ##### Streaming (music, movies, audiobooks), webpages, twitter feeds, podcasts. mobile phones
 
-###
+### SQL
 
 
 ### Ethical and Legal Implications
@@ -48,6 +48,10 @@
 #### Information Collection
 
 ##### COPPA this is enforced by the FTC and organizations must make a good-faith effort to determine the age of those accessing wesites. Children under the age of thirteen FERPA is a US law that protect the privacy education records. Parents have the right to their child's records up to the age of eighteen. HIPPA is a law that gives patient specific rights to control their medical records and health providers have to have permission to share it without recieving penalities.
+
+### Conclusion
+
+##### 
 
 
 
