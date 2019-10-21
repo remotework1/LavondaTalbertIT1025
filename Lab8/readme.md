@@ -24,6 +24,13 @@
 
 ##### Streaming (music, movies, audiobooks), webpages, twitter feeds, podcasts. mobile phones
 
+###
+
+
+### Ethical and Legal Implications
+
+##### i. Code of ethics outliens a set of acceptable behaviors for a profession or social group.  ACM created their code of ethics to make sure hummanity is not demean, bully or humiliated by a professional in that organzation. Noone will use someone else's computer to commit acts against another human. 
+
 
 
 
