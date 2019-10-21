@@ -14,13 +14,15 @@
 
 ##### 2. The relation between the two shows how to add multiple customers to an order.
 
-##### 3. 
+##### 3. MLK tournament
 
 ##### iii. In a relational database every table should have a field in common with at least one other table.
 
 #### Big Data
 
 ##### Volume represents the amount of data. It is referencing the words 'big' data. Velocity is the motion of data that is seen in real time (streaming data). Variety is the different types(new categories) of data and data resources. Veracity is the trustworthines of the data. It is the reliability of certain types of data.
+
+##### Streaming (music, movies, audiobooks), webpages, twitter feeds, podcasts. mobile phones
 
 
 
