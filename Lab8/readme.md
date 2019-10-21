@@ -4,7 +4,7 @@
 
 ### Data, Information and Knowledge
 
-#### Relationl Data
+#### Relational Data
 
 ##### i. Data are the raw bits and pieces of information with no meaning. Information defines the data. Knowledge is used to make decisions, set policies and even spark innovation.
 
@@ -17,5 +17,11 @@
 ##### 3. 
 
 ##### iii. In a relational database every table should have a field in common with at least one other table.
+
+#### Big Data
+
+##### Volume represents the amount of data. It is referencing the words 'big' data. Velocity is the motion of data that is seen in real time (streaming data). Variety is the different types(new categories) of data and data resources. Veracity is the trustworthines of the data. It is the reliability of certain types of data.
+
+
 
 
