@@ -43,7 +43,11 @@
 
 ##### ii. A copyright is obtained by creating the original work. The benefit of registering for a copyright you can sue if used improperly, work is owned by the owner and its easy to transfer the work to others. The SVG image should be copyrighted so it cannot be used by others in design or manipulated in a way that is beneficial to someone else. Also in order to register for use on the internet, and print it needs to have its own identity.
 
-##### iii. 
+##### iii. There are two trademarks common-law is the use of a word, phrase or logo used in the normal course of business. The TM is designated for the common-law trademark. A registered trademark is one that is examined, approved and registered. It is identified with the circle-R next to the trademark.
+
+#### Information Collection
+
+##### COPPA this is enforced by the FTC and organizations must make a good-faith effort to determine the age of those accessing wesites. Children under the age of thirteen FERPA is a US law that protect the privacy education records. Parents have the right to their child's records up to the age of eighteen. HIPPA is a law that gives patient specific rights to control their medical records and health providers have to have permission to share it without recieving penalities.
 
 
 
