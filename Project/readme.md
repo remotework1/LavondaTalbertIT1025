@@ -32,7 +32,9 @@ https://www.lockedownseo.com/importance-of-web-design-ethics/
 https://designshack.net/articles/business-articles/why-every-designer-needs-a-code-of-ethics/
 https://skillcrush.com/2019/03/19/how-to-start-a-web-developer-career/#land
 
-##### 3. 
+### Conclusion
+
+##### This class has introduced me to a large database of technical terminology. I am a print designer by trade and I thought it would have been more about design, colors, fonts and layouts. It was a fast introduction into the world of computer technology. The one thing I appreciate is making me focus on what I really want out of this degree. I know that working remote and finding a IT job that will allow that is the goal. Amazon says it will help aid their workers in finding a career that isn't tied to staying with them after the study is complete. This last part of the project really defined what is my end goal, Web Development. 
 
 
 
