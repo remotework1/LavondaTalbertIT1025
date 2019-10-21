@@ -37,7 +37,11 @@
 
 ##### iii. Dunkin Donuts has this as a header at the top of their website and it must be review and agreed upon. It doesn't stop you from viewing the website but it is a constant reminder that it exists. I click out of it and nothing happened but I didn't sign into the website as a member.  https://www.dunkindonuts.com/en/privacy-policy
 
-####
+#### Intellectual Property
+
+##### WIPO is the global forum that leads the development of a balance and effective international IP system that enables nnovation and creativity for the benefit of all.
+
+
 
 
 
