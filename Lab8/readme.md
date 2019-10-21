@@ -51,7 +51,7 @@
 
 ### Conclusion
 
-##### 
+##### Recognizing the relationship between data, information and knowledge and how it works together. Understanding Big data the size of it and what technologies are being used to distribute it through the internet. How to apply a Code of ethics so individuals and businesses can use to comply with the public. Know how to protect your tangible designs and projects through the government to avoid others to duplicate and use without permission. 
 
 
 
