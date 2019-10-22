@@ -30,6 +30,8 @@
 
 ##### a. RDBMS is a program that allows you to update, cread and adminster a relational databaase. TDMBS needs SQL language to access the database.
 
+##### b. SQL Syntax and SQL Select. The primary data is Customer's ID. The foreign key is the Customer's name. The relationship between Syntax and Select is Syntax creates a unique set of guidelines to create the commands and query statements to formulate tables and SQL Select uses the guidelines to return the results of records from one or more table.  
+
 
 ### Ethical and Legal Implications
 
