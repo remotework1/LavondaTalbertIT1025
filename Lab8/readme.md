@@ -26,6 +26,10 @@
 
 ### SQL
 
+#### Structured Query Language
+
+##### a. RDBMS is a program that allows you to update, cread and adminster a relational databaase. TDMBS needs SQL language to access the database.
+
 
 ### Ethical and Legal Implications
 
